@@ -152,7 +152,6 @@ export default function App() {
     );
   };
 
-  // --- Remove Task ---
   const removeTask = (id) => {
     setTasks(tasks.filter((task) => task.id !== id));
   };
@@ -226,7 +225,6 @@ export default function App() {
     setEditModalVisible(true);
   };
 
-  // --- Render Task Card ---
   const renderItem = ({ item }) => (
     <Animated.View
       entering={SlideInDown.duration(300)}
