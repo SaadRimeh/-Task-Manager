@@ -20,7 +20,7 @@ Features
 
 Clone the repository:
 
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/SaadRimeh/task-manager.git
 cd task-manager
 
 Install dependencies:
