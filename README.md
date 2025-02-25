@@ -55,7 +55,6 @@ JavaScript (ES6+)
 
 React Hooks (useState, useEffect)
 
-Future Improvements
 
 
 
