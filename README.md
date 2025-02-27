@@ -47,7 +47,7 @@ Delete Task: Swipe left or tap "Delete" to remove a task.
 
 Score Calculation: Complete tasks to earn points and track your productivity.
 
-**Technologies Used**
+**Technology Used**
 
 React Native
 
